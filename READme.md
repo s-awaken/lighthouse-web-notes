@@ -5,9 +5,14 @@
 This repository contains all of the notes taken by [Syrym](https://github.com/s-awaken) for the Lighthouse Labs Web Development Bootcamp.
 
 - [Week 1](/Week_1)
-
   - [Day 1](/Day_1)
   - [Day 2](/Day_2)
+
+- [Week 2](/Week_2)
+  - [Day 1](/Day_1)
+  - [Day 2](/Week_2/Day_2)
+  - [Day 3](/Week_2/Day_3)
+  - [net_example_day_3](/Week_2/net_example_day_3)
 
     - Five rules for Lighthouse Labs
 
