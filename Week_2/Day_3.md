@@ -25,3 +25,4 @@ TCP -- Transmistion Control Protocol - used to establish networked communication
 Accuracy > Speed
 
 
+HTTP -- Request <-> response
