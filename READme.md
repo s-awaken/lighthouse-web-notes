@@ -19,6 +19,7 @@ This repository contains all of the notes taken by [Syrym](https://github.com/s-
   - [Day 1](/Day1)
   - [Day 2](/Day_2)
   - [Day 3](/Day_3)
+  - [Day 4](/Day_4)
     - Five rules for Lighthouse Labs
 
     1. Ask for help
