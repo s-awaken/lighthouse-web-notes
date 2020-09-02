@@ -10,10 +10,15 @@ This repository contains all of the notes taken by [Syrym](https://github.com/s-
 
 - [Week 2](/Week_2)
   - [Day 1](/Day_1)
-  - [Day 2](/Week_2/Day_2)
-  - [Day 3](/Week_2/Day_3)
+  - [Day 2](/Day_2)
+  - [Day 3](/Day_3)
   - [net_example_day_3](/Week_2/net_example_day_3)
+  - [Day 4](/Week_2/Day_4)
 
+- [Week 3](/Week_3)
+  - [Day 1](/Day1)
+  - [Day 2](/Day_2)
+  - [Day 3](/Day_3)
     - Five rules for Lighthouse Labs
 
     1. Ask for help
